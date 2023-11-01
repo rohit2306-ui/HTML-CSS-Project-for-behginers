@@ -1,1 +1,1 @@
-# HTML-CSS-Project-for-behginers
+# HTML-CSS-Project-for-beginers
