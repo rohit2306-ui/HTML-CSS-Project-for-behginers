@@ -1,0 +1,115 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    height: 700px;
+    width: 0px;
+    background-image: url(chemistry.jpeg);
+}
+
+header:hover{
+    height: 700px;
+    background-size: cover;
+    width: 1400px;
+    transition-duration: 4s;
+    transition-delay: 1s;
+    transition-timing-function: 4;
+    color: red;
+}
+main{
+    height: 700px;
+    width: 0px;
+    background-image: url(chemistry2.jpeg);
+}
+main:hover{
+    height: 700px;
+    background-size: cover;
+    width: 1400px;
+    transition-duration: 4s;
+    transition-delay: 1s;
+    transition-timing-function: 4;
+    color: red;
+}
+footer{
+    height: 700px;
+    width: 0px;
+    background-image: url(chemistry3.jpg);
+    }
+footer:hover{
+    height: 700px;
+    background-size: cover;
+    width: 1400px;
+    transition-duration: 4s;
+    transition-delay: 1s;
+    transition-timing-function: 4;
+    color: red;
+}
+div{
+    height: 50px;
+    text-align: initial;
+    display: flex;
+    position: static;
+}
+.searchbox{
+    border-end-end-radius: 340px;
+    align-items: center;
+    height: 30px;
+    width: 300px;
+    background-image: url(chemistry3.jpg);
+    color: black;
+    justify-content: center;
+}
+.searchbox:hover{
+    background-color: black;
+    color: white;
+    height: 60px;
+    width: 500px;
+    transition-duration: 4s;
+    transition-delay: 1s;
+    transition-timing-function: 4;
+}
+
+.secondbox{
+    border-end-end-radius: 340px;
+    height: 30px;
+    width: 300px;
+    color: red;
+    background-image: url(chemistry.jpeg);
+}
+.secondbox:hover{
+    background-color: red;
+    color: blue;
+    transition-duration: 4s;
+    transition-delay: 1s;
+    transition-timing-function: 5;
+    height: 60px;
+    width: 500px;
+}
+.record{
+    border-end-end-radius: 340px;
+    height: 30px;
+    width: 300px;
+    color: red;
+    background-image: url(chemistry2.jpeg);
+}
+.record:hover{
+    background-color: red;
+    color: blue;
+    transition-duration: 4s;
+    transition-delay: 1s;
+    transition-timing-function: 5;
+    height: 60px;
+    width: 500px;
+}
+a{
+    color: orange;
+    padding-left: 70px;
+    padding-top: 20px ;
+}
+.searchbox4{
+    height: 30.5px;
+    width: 400px;
+    color: red;
+    margin: auto;
+}
